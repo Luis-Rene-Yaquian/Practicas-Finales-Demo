@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Opcional: mejora de render de texto */
+:root { color-scheme: light; }
+html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
